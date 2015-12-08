@@ -1,0 +1,42 @@
+# p car
+# p car
+# p car['make']
+# p car['style']
+# p car['model']
+# p car['color']
+# p car['plate']
+# p car['state']
+# p car['towed_to_address']
+# p car['tow_facility_phone']
+# p car['inventory_number']
+# binding.pry
+
+#tier 1 match
+plate State
+
+#tier 2 match
+make style model color
+
+#tier 3 match
+make style color
+
+
+@tier1_match_car
+@tier2_match_cars
+@tier3_match_cars
+
+
+
+
+
+
+# tow_date floating_timestamp Tow Date
+#  make text Make
+#  style text Style
+#  model text Model
+#  color text Color
+#  plate text Plate
+#  state text State
+#  towed_to_address text Towed to Address
+#  tow_facility_phone text Tow Facility Phone
+#  inventory_number text Inventory Number
