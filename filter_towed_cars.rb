@@ -23,29 +23,6 @@ user_car = {
 "make" => "BMW"
 }
 
-# user_car = {"inventory_number"=>"6833988", "style"=>"4T", "color"=>"BLK", "towed_to_address"=>"701 N. Sacramento", "state"=>"IL", "plate"=>"N213128-dood", "tow_facility_phone"=>"(773) 265-7605", "tow_date"=>"2015-12-08T00:00:00", "make"=>"ACUR"}
-# user_car = {"inventory_number"=>"68329189", "style"=>"4D", "color"=>"BLU", "towed_to_address"=>"701 N. Sacramento", "state"=>"IL", "plate"=>"S442827", "tow_facility_phone"=>"(773) 265-7605", "tow_date"=>"2015-12-02T00:00:00", "make"=>"HYUN"}
-
-# user_car =
-# {"inventory_number"=>"6834011",
-#  "style"=>"4T",
-#  "color"=>"GRY",
-#  "towed_to_address"=>"701 N. Sacramento",
-#  "state"=>"IL",
-#  "tow_facility_phone"=>"(773) 265-7605",
-#  "tow_date"=>"2015-12-08T00:00:00",
-#  "make"=>"ACUR"}
-
-# user_car = {"inventory_number"=>"6834011",
-#  "style"=>"4T",
-#  "color"=>"GRY",
-#  "towed_to_address"=>"701 N. Sacramento",
-#  "state"=>"IL",
-#  "tow_facility_phone"=>"(773) 265-7605",
-#  "tow_date"=>"2015-12-08T00:00:00",
-#  "make"=>"ACUR"}
-
-# do i need this?
 @tier1_match_car = Array.new
 @tier2_match_cars = Array.new
 @tier3_match_cars = Array.new

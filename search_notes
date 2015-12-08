@@ -25,6 +25,19 @@ make style color
 @tier2_match_cars
 @tier3_match_cars
 
+# user_car = {
+#   "plate"=>"S929488",
+#   "state"=>"IL",
+#   "style"=>"4D",
+#   "color"=>"BLU",
+#   "make"=>"ACUR",
+#   "model"=>"",
+#   "towed_to_address"=>"701 N. Sacramento",
+#   "tow_facility_phone"=>"(773) 265-7605",
+#   "inventory_number"=>"6833863",
+#   "tow_date"=>"2015-12-07T00:00:00"
+# }
+
 
 
 
